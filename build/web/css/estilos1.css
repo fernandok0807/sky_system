@@ -1,0 +1,46 @@
+*{
+			padding: 10px;
+			margin: -10px;
+		}
+
+header{
+	
+
+    
+	background: #045FB4;
+	color: #fff;
+}
+
+.coloreli{
+	background: #FE2E2E;
+	color: #fff;
+}
+
+.colormas{
+	background: white;
+	color: white;
+	border-color: white;
+}
+
+.coloract{
+	background: #04B431;
+	color: #fff;
+}
+
+
+.main{
+	background: #f2f2f2;
+}
+
+.color1{
+	border-color: transparent;
+	color: #fff;
+}
+aside{
+	background: #c0392b;
+	color: #fff;
+}
+footer{
+	background: #045FB4;
+	color: #fff;
+}

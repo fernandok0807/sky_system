@@ -1,0 +1,59 @@
+body{
+	color: #543;
+	background-color: #f0f0f0;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.container2{
+	width: 90%; 	
+	min-height: 90%;
+	margin: auto;
+	padding: 20px;
+	background-color: #FFF;
+	border: solid 1px #CCC;
+}
+
+.center{
+	text-align: center;
+}
+
+header{
+    
+    margin-top: -10px;
+    font-size: 13px;
+    background: #045FB4;
+    color: #fff;
+}
+footer{
+	 font-size: 13px;
+    background: #045FB4;
+    color: #fff;
+}
+
+.coloreli{
+	background: #FE2E2E;
+	color: #fff;
+}
+
+.colormas{
+	background: white;
+	color: white;
+	border-color: white;
+}
+
+.coloract{
+	background: #04B431;
+	color: #fff;
+}
+
+
+
+
+#resultados{
+	min-height: 300px;
+}
+.art{
+	margin-bottom: 10px;
+	background-color: #F1F1F1;
+	padding: 5px;
+}
